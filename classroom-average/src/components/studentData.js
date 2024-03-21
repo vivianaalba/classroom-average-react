@@ -1,4 +1,4 @@
-let data = [
+let students = [
     {
         id: 1,
         name: "Nikki",
@@ -43,4 +43,4 @@ let data = [
         }
   ]
   
-  export default data;
+  export default students;
