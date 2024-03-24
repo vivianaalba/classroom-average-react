@@ -1,27 +1,13 @@
-# classroom-average-react
- 
- App.jsx
- 2 states: 
- student -- updating student grades
- newStudents -- input complete new student
+# About
+<br>This application allows users to calculate the classroom average of a group of students. Average is automatically updated as grades change, allowing for a seemless user experience.
 
- 4 functions:
- updateStudentGrade() -- handleGradeChange()
- handleNewAverage()
- handleInputChange()
- handleSubmit()
+## Technologies
+<br>Tech: Javascript, HTML, CSS
+<br>Packages: vite, react
 
- -- import calculateClassroomAverage
- -- attach function to a button
+### Getting started
+<br> cd classroom-average -- ensures that you are in the correct directory
+<br> npm run dev
 
-
- Components
- studentTable:
- pass in student state and function - handleStudentGrade()
-
- calculateClassroomAverage:
-
- computational thinking - cs50 harvard
-
-
- 
+#### Installation
+<br> npm run dev
